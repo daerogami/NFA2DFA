@@ -1,0 +1,15 @@
+C:\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.exe.config
+C:\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.exe
+C:\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.pdb
+C:\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.csprojResolveAssemblyReference.cache
+C:\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.exe
+C:\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.pdb
+C:\Users\Lead\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.exe.config
+C:\Users\Lead\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.exe
+C:\Users\Lead\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.pdb
+C:\Users\Lead\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.csprojResolveAssemblyReference.cache
+C:\Users\Lead\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.exe
+C:\Users\Lead\Documents\Visual Studio 2012\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.pdb
+\\45.24.240.131\share\Projects\NFA2DFA\NFA2DFA\bin\Debug\NFA2DFA.exe.config
+\\45.24.240.131\share\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.exe
+\\45.24.240.131\share\Projects\NFA2DFA\NFA2DFA\obj\Debug\NFA2DFA.pdb
